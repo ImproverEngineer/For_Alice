@@ -1,0 +1,16 @@
+D:\GitExt\Alice_Home_Work\TraceProgram\TraceProgram\bin\Debug\net5.0\TraceProgram.exe
+D:\GitExt\Alice_Home_Work\TraceProgram\TraceProgram\bin\Debug\net5.0\TraceProgram.deps.json
+D:\GitExt\Alice_Home_Work\TraceProgram\TraceProgram\bin\Debug\net5.0\TraceProgram.runtimeconfig.json
+D:\GitExt\Alice_Home_Work\TraceProgram\TraceProgram\bin\Debug\net5.0\TraceProgram.runtimeconfig.dev.json
+D:\GitExt\Alice_Home_Work\TraceProgram\TraceProgram\bin\Debug\net5.0\TraceProgram.dll
+D:\GitExt\Alice_Home_Work\TraceProgram\TraceProgram\bin\Debug\net5.0\ref\TraceProgram.dll
+D:\GitExt\Alice_Home_Work\TraceProgram\TraceProgram\bin\Debug\net5.0\TraceProgram.pdb
+D:\GitExt\Alice_Home_Work\TraceProgram\TraceProgram\obj\Debug\net5.0\TraceProgram.csproj.AssemblyReference.cache
+D:\GitExt\Alice_Home_Work\TraceProgram\TraceProgram\obj\Debug\net5.0\TraceProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitExt\Alice_Home_Work\TraceProgram\TraceProgram\obj\Debug\net5.0\TraceProgram.AssemblyInfoInputs.cache
+D:\GitExt\Alice_Home_Work\TraceProgram\TraceProgram\obj\Debug\net5.0\TraceProgram.AssemblyInfo.cs
+D:\GitExt\Alice_Home_Work\TraceProgram\TraceProgram\obj\Debug\net5.0\TraceProgram.csproj.CoreCompileInputs.cache
+D:\GitExt\Alice_Home_Work\TraceProgram\TraceProgram\obj\Debug\net5.0\TraceProgram.dll
+D:\GitExt\Alice_Home_Work\TraceProgram\TraceProgram\obj\Debug\net5.0\ref\TraceProgram.dll
+D:\GitExt\Alice_Home_Work\TraceProgram\TraceProgram\obj\Debug\net5.0\TraceProgram.pdb
+D:\GitExt\Alice_Home_Work\TraceProgram\TraceProgram\obj\Debug\net5.0\TraceProgram.genruntimeconfig.cache
